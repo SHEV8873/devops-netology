@@ -1,4 +1,4 @@
 # netology-code
 ##
-use IDE Py Charm
-add line
+1. use IDE Py Charm
+2. add line
